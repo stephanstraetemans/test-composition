@@ -3,7 +3,7 @@
 
   <default upstream="test-develop"/>
 
-  <remote name="origin" fetch="ssh://git@github.com/max-at-philips/"/>
+  <remote name="origin" fetch="ssh://git@github.com/stephanstraetemans/"/>
 
   <project remote="origin" name="test-comp-a" path="a" upstream="test-develop" revision="aa"/>
   <project remote="origin" name="test-comp-b" path="b" upstream="test-develop" revision="test-develop"/>
